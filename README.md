@@ -3,8 +3,9 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
     <p align="center">frontend developer </p><br>
     🌍 I'm based in jabalpur, madhya pradesh <br>
     ✉️ You can contact me at [amaanku766@gmail.com]
-
- ### Skills
+    <hr>
+![Metrics](https://metrics.lecoq.io/Amaanku?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata)
+<hr> ### Skills
    <p align="left">
         <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"
@@ -37,7 +38,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
                 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg"
                 width="36" height="36" alt="Google Cloud" /></a>
     </p>
-    ### Socials<p align="left"> <a href="https://www.github.com/Amaanku" target="_blank" rel="noreferrer">
+<hr>    ### Socials<p align="left"> <a href="https://www.github.com/Amaanku" target="_blank" rel="noreferrer">
             <picture>
                 <source media="(prefers-color-scheme: dark)"
                     srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -67,7 +68,7 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
         </a></p>
 
 
-
+<hr>
   <b>My GitHub Stats</b>
 
   <a href="http://www.github.com/Amaanku"><img
