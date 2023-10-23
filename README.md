@@ -1,6 +1,7 @@
 <span align="center">
     <h1>Hii!</h1>
-    <img src="https://www.flaticon.com/free-animated-icon/wave_11321431" alt="">
+    <video src="https://cdn-icons-mp4.flaticon.com/512/11321/11321431.mp4"></video>
+
 
 </span>
     <h1 align="center">My name is aman kushwaha</h1>
