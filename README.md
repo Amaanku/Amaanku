@@ -1,4 +1,8 @@
-Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+<span align="center">
+    <h1>Hii!</h1>
+    <img src="https://www.flaticon.com/free-animated-icon/wave_11321431" alt="">
+
+</span>
     <h1 align="center">My name is aman kushwaha</h1>
     <p align="center">frontend developer </p><br>
     🌍 I'm based in jabalpur, madhya pradesh <br>
