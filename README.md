@@ -1,9 +1,4 @@
-<span align="center">
-    <h1>Hii!</h1>
-    <video src="https://cdn-icons-mp4.flaticon.com/512/11321/11321431.mp4"></video>
 
-
-</span>
     <h1 align="center">My name is aman kushwaha</h1>
     <p align="center">frontend developer </p><br>
     🌍 I'm based in jabalpur, madhya pradesh <br>
