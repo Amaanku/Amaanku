@@ -8,7 +8,7 @@
     <p align="center">frontend developer </p><br>
     🌍 I'm based in jabalpur, madhya pradesh <br>
     ✉️ You can contact me at [amaanku766@gmail.com]
-    <hr>
+    
 ![Metrics](https://metrics.lecoq.io/Amaanku?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata)
 <hr> ### Skills
    <p align="left">
