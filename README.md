@@ -1,6 +1,6 @@
-  Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-    <h1 align="center">My name is aman kushwaha</h1>
-    <p align="center">frontend developer </p><br>
+<img src="./github-header-image.png" alt="" style="max-width: 100%;width: 831px;" >
+<hr>
+   <>
     🌍 I'm based in jabalpur, madhya pradesh <br>
     ✉️ You can contact me at [amaanku766@gmail.com]
     
