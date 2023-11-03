@@ -65,7 +65,7 @@
     </a>
 </p>
 
-**My GitHub Stats**
+### My GitHub Stats
 
 <a href="http://www.github.com/Amaanku">
     <img src="https://github-readme-stats.vercel.app/api?username=Amaanku&show_icons=true&hide=issues,contribs&title_color=facc15&text_color=14b8a6&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="Amaanku's GitHub stats" />
