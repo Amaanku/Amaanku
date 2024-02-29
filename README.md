@@ -19,9 +19,9 @@
 </div>
 
 ###
-
+<!--
 <img src="https://raw.githubusercontent.com/Amaanku/Amaanku/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <img align="right" height="157" src="https://www.piskelapp.com/static/resources/home/features/feature-live-preview.gif"  />
